@@ -6,6 +6,6 @@
 #digit.
 #3. It must NOT contain three repeating characters in a row ("...aaa..." is weak, but "...aa...a..."
 #is strong, assuming other conditions are met).
-#Write an algorithm that takes a string s as input, and return the MINIMUM change required to
+#4. Write an algorithm that takes a string s as input, and return the MINIMUM change required to
 #make s a strong password. If s is already strong, return 0.
-#Insertion, deletion or replace of any one character are all considered as one change.
+#5. Insertion, deletion or replace of any one character are all considered as one change.
