@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        String password = "Baacaacaacaacaacaa112";
+        String password = "UMTSoftware1";
         PasswordChecker checker = new PasswordChecker(password);
         int minChanges = checker.minimumChanges();
 
